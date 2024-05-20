@@ -1,0 +1,47 @@
+[
+  {
+    "comment": "JSONコメント残せない DB無いし車種増やすならこんなイメージで ./motorcycle.jsonの構造が正　こっちは嘘",
+    "id": 1,
+    "maker": "YAMAHA",
+    "name": "xsr900",
+    "model_year": "16-21",
+    "cc": "845",
+    "image": [
+      "/Images/yamaha/751-1000/xsr900_2016-/xsr900_color_001_2016_001.jpg",
+      "/Images/yamaha/751-1000/xsr900_2016-/xsr900_color_001_2016_002.jpg",
+      "/Images/yamaha/751-1000/xsr900_2016-/xsr900_color_001_2016_003.jpg",
+      "/Images/yamaha/751-1000/xsr900_2016-/xsr900_color_001_2016_004.jpg"
+    ],
+    "custom_parts": [""]
+  },
+  {
+    "id": 2,
+    "maker": "YAMAHA",
+    "name": "xsr900",
+    "model_year": "22-",
+    "cc": "888",
+    "image": [
+      "/Images/yamaha/751-1000/xsr900_2022-/xsr900_color_001_2022_001.jpg",
+      "/Images/yamaha/751-1000/xsr900_2022-/xsr900_color_001_2022_002.jpg",
+      "/Images/yamaha/751-1000/xsr900_2022-/xsr900_color_001_2022_003.jpg",
+      "/Images/yamaha/751-1000/xsr900_2022-/xsr900_color_001_2022_004.jpg"
+    ],
+    "custom_parts": [
+      "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/tank/images.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "maker": "YAMAHA",
+    "name": "xsr900GP",
+    "model_year": "24-",
+    "cc": "888",
+    "image": [
+      "/Images/yamaha/751-1000/xsr900GP_2024-/xsr900gp_color_001_2024_001.jpg",
+      "/Images/yamaha/751-1000/xsr900GP_2024-/xsr900gp_color_001_2024_002.jpg",
+      "/Images/yamaha/751-1000/xsr900GP_2024-/xsr900gp_color_001_2024_003.jpg",
+      "/Images/yamaha/751-1000/xsr900GP_2024-/xsr900gp_color_001_2024_004.jpg"
+    ],
+    "custom_parts": [""]
+  }
+]

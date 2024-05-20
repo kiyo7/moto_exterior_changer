@@ -1,0 +1,100 @@
+[
+  {
+    "id": 2,
+    "maker": "YAMAHA",
+    "name": "xsr900",
+    "model_year": "22-",
+    "cc": "888",
+    "image": [
+      "/Images/yamaha/751-1000/xsr900_2022-/xsr900_color_001_2022_001.jpg",
+      "/Images/yamaha/751-1000/xsr900_2022-/xsr900_color_001_2022_002.jpg",
+      "/Images/yamaha/751-1000/xsr900_2022-/xsr900_color_001_2022_003.jpg",
+      "/Images/yamaha/751-1000/xsr900_2022-/xsr900_color_001_2022_004.jpg"
+    ],
+    "custom_parts": [
+      {
+        "name": "tank",
+        "image": "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/tank/tank.JPG",
+        "parts": [
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/tank/black_2024.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/tank/white_2024.png"
+        ]
+      },
+      {
+        "name": "side cover",
+        "image": "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/side_cover/side_cover.JPG",
+        "parts": [
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/side_cover/blue_2022.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/side_cover/black_2024.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/side_cover/red_2024.png"
+        ]
+      },
+      {
+        "name": "seat",
+        "image": "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/seat/seat.JPG",
+        "parts": [
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/seat/blue_2022.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/seat/black_2024.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/seat/red_2024.png"
+        ]
+      },
+      {
+        "name": "headlight stay",
+        "image": "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/headlight_stay/headlight_stay.JPG",
+        "parts": [
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/headlight_stay/black_2024.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/headlight_stay/white_2024.png"
+        ]
+      },
+      {
+        "name": "front fender",
+        "image": "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/front_fender/front_fender.JPG",
+        "parts": [
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/front_fender/blue_2022.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/front_fender/black_2024.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/front_fender/red_2024.png"
+        ]
+      },
+      {
+        "name": "front fork",
+        "image": "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/front_fork/front_fork.JPG",
+        "parts": [
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/front_fork/black_2024.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/front_fork/white_2024.png"
+        ]
+      },
+      {
+        "name": "front wheel",
+        "image": "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/front_wheel/front_wheel.JPG",
+        "parts": [
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/front_wheel/black_2024.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/front_wheel/white_2024.png"
+        ]
+      },
+      {
+        "name": "mirror",
+        "image": "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/mirror/mirror.JPG",
+        "parts": [
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/mirror/black_2024.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/mirror/white_2024.png"
+        ]
+      },
+      {
+        "name": "rear wheel",
+        "image": "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/rear_wheel/rear_wheel.JPG",
+        "parts": [
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/rear_wheel/black_2024.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/rear_wheel/white_2024.png"
+        ]
+      },
+      {
+        "name": "heel plate",
+        "image": "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/heel_plate/heel_plate.JPG",
+        "parts": [
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/heel_plate/black_2024.png",
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/heel_plate/white_2024.png"
+        ]
+      }
+    ]
+  }
+]
