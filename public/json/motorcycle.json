@@ -16,6 +16,7 @@
         "name": "tank",
         "image": "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/tank/tank.JPG",
         "parts": [
+          "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/tank/blue_2022.png",
           "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/tank/black_2024.png",
           "/Images/yamaha/751-1000/xsr900_2022-/custom_parts/tank/white_2024.png"
         ]
