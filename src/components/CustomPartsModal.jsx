@@ -14,6 +14,8 @@ const CustomPartsModal = ({ custom, setAttachCustoms, attachCustoms }) => {
               {custom.parts.map((parts) => (
                 <div key={parts} className="card w-96 bg-base-100 shadow-xl">
                   <img src={parts} alt={parts} />
+                  <input type="color" />
+
                   <div
                     className="card-body"
                     onClick={() => setAttachCustoms([...attachCustoms, parts])}

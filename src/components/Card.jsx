@@ -12,13 +12,15 @@ const Card = ({ MotorcycleList, attachCustoms, setAttachCustoms }) => {
           <>
             <div
               key={custom.name}
-              className="card card-compact w-96 bg-base-100 shadow-xl"
+              className="card card-compact w-72 m-1 bg-base-100 shadow-xl"
             >
-              <img
-                src={custom.image}
-                alt={custom.name}
-                style={{ objectFit: "cover" }}
-              />
+              <div className="w-80 h-28">
+                <img
+                  src={custom.image}
+                  alt={custom.name}
+                  style={{ objectFit: "cover" }}
+                />
+              </div>
               <div className="card-body">
                 <h2 className="card-title">{custom.name}</h2>
                 <div className="card-actions justify-end">

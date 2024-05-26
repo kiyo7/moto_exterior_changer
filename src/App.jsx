@@ -18,6 +18,10 @@ function App() {
 
   console.log(attachCustoms);
 
+  function reset() {
+    setAttachCustoms([]);
+  }
+
   useEffect(() => {
     fetch("/json/motorcycle.json")
       .then((response) => {
@@ -52,6 +56,14 @@ function App() {
                   {`(${motorcycle.model_year})`}
                 </h2>
               </div>
+              <button
+                className="btn btn-primary"
+                onClick={() => {
+                  reset();
+                }}
+              >
+                reset
+              </button>
               <figure>
                 {attachCustoms.map((partsImg) => (
                   <>
